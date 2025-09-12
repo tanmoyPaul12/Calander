@@ -1,2 +1,2 @@
-# Calander
+# Calander that updates daily
 
